@@ -19,12 +19,16 @@ a {
   color: var(--warm-orange);
 }
 
+a:hover {
+    color: var(--warm-red);
+}
+
 p {
     color: var(--warm-red);
 }
 
 h1 {
-    color: var(--warm-red);
+    color: #f61173;
 }
 
 .nav-bg {
