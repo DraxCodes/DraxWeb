@@ -19,6 +19,10 @@ a {
   color: var(--warm-orange);
 }
 
+a:hover {
+    color: var(--warm-red);
+}
+
 p {
     color: var(--warm-red);
 }
