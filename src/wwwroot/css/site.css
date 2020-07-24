@@ -28,7 +28,7 @@ p {
 }
 
 h1 {
-    color: #f61173;
+    color: var(--warm-red);
 }
 
 .nav-bg {
